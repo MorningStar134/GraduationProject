@@ -37,7 +37,7 @@
 首先将本仓库克隆到本地，执行以下命令：
 
 ```bash
-git clone https://github.com/你的用户名/仓库名称.git
+git clone https://github.com/MorningStar134/GraduationProject
 cd 仓库名称
 ```
 
@@ -79,7 +79,7 @@ cd 仓库名称
 
 如果有任何问题、建议或需求，可通过以下方式联系我：
 
-- GitHub：[你的GitHub地址](https://github.com/你的用户名)
+- GitHub：[你的GitHub地址](https://github.com/MorningStar134/GraduationProject)
 
 - 邮箱：你的邮箱地址
 
